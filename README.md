@@ -92,6 +92,7 @@ Any class that starts with language-xxxx (or lang-xxxx) will be highlighted as l
 ## 📚 Further reading and reference guide
 
 - Prism .js documentation & bundle builder — https://prismjs.com/
+- https://github.com/PrismJS
 
 
 
