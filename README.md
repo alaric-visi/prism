@@ -22,7 +22,7 @@ Great for A/B-testing colour schemes or teaching how Prism’s “build-your-own
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-user>/prism-bundle-demo.git
+git clone https://github.com/alaric-visi/prism-bundle-demo.git
 cd prism-bundle-demo
 ```
 
