@@ -7,6 +7,10 @@ Great for A/B-testing colour schemes or teaching how Prism’s “build-your-own
 
 ---
 
+## 🖥️ Demo
+
+- https://mikehiggins.me.uk/posts/prism
+
 ## 📂 Repository layout
 
 | File / folder      | Purpose |
